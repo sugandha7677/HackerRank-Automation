@@ -1,0 +1,22 @@
+{
+  "name": "hackerrank-automation",
+  "version": "1.0.0",
+  "description": "HackerRank automation is an automation project build using",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sugandha7677/HackerRank-Automation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sugandha7677/HackerRank-Automation/issues"
+  },
+  "homepage": "https://github.com/sugandha7677/HackerRank-Automation#readme",
+  "dependencies": {
+    "puppeteer": "^19.6.3"
+  }
+}
